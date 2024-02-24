@@ -34,13 +34,13 @@ module.exports = {
 			type:"address",
 			date:"2013-09-13",
 			chain: "main",
-			address:"37k7toV1Nv4DfmQbmZ8KuZDQCYK9x5KpzP",
-			summary:"SHA1 collision bounty",
-			alertBodyHtml:"On September 13, 2013 a P2SH address was setup which allowed anyone who found a SHA1 collision to construct a transaction that could spend from this address.",
-			referenceUrl:"https://bitcointalk.org/index.php?topic=293382.0"
+			العنوان::"37k7toV1Nv4DfmQbmZ8KuZDQQCYK9x5KpzP",
+			ملخص.:"SHA1 تصادم مكافأة",
+			تنبيهBodyHtml:"في 13 سبتمبر 2013 ، تم إعداد عنوان P2SH الذي سمح لأي شخص وجد تصادم SHA1 ببناء معاملة يمكن أن تنفق من هذا العنوان".,
+			المرجعUrl:"https://bitcointalk.org/index.php?topic=293382.0"
 		},
 		{
-			type:"address",
+			النوع::"address",
 			date:"2013-09-13",
 			chain: "main",
 			address:"35Snmmy3uhaer2gTboc81ayCip4m9DT4ko",
